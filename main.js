@@ -1,0 +1,1 @@
+$('#testy').css('color', 'orange')
