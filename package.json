@@ -1,0 +1,24 @@
+{
+  "name": "githacked69",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimryan711/githacked69.git"
+  },
+  "author": "Jim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimryan711/githacked69/issues"
+  },
+  "homepage": "https://github.com/jimryan711/githacked69#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
